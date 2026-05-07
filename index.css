@@ -19,7 +19,7 @@ html{
 
 section{
     display: flex;
-    padding: 8.1rem 9.5rem 10.4rem 12.4rem;
+    padding: 8.1rem 9.5rem 10rem 12.4rem;
     gap: 3.3rem;
     align-items: center;
 }
@@ -135,6 +135,7 @@ section{
     color: white;
     margin: 2.8rem 13.8rem 7.4rem 13.7rem;
     background-color: var(--color-button);
+    
 }
 
 .modif{
